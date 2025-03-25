@@ -16,7 +16,7 @@
     "qs": "^5.1.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
-    "reindex-js": "^0.3.0"
+    "reindex-js": "^0.4.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.25",
